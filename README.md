@@ -1,2 +1,5 @@
-# analogical-ke
-Analogical Knowledge Extraction: Dataset of facts and metadata from NextKB
+# Analogical Knowledge Extraction Data
+This repository contains the subset of relations taken from NextKB for the work on common sense knowledge extraction (TODO cite)
+
+# NextKB
+This work includes data from NextKB, which was compiled by the Qualitative Reasoning Group at Northwestern University. NextKB is freely available under the Creative Commons Attribution 4.0 license from http://qrg.northwestern.edu/nextkb/index.html. The included data was created by contributors to the Qualitative Reasoning Group, contributors to Cycorp's OpenCyc, University of California at Berkeley's FrameNet project, the VerbNet project, and Princeton University's WordNet project. For details of attributions, please see http://www.qrg.northwestern.edu/nextkb/license.html
