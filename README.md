@@ -1,5 +1,5 @@
 # Analogical Knowledge Extraction Data
-This repository contains the subset of relations taken from [NextKB](https://www.qrg.northwestern.edu/nextkb/index.html) used in the evaluation of the paper "Combining Analogy with Language Models for Knowledge Extraction"
+This repository contains the subset of relations taken from [NextKB](https://www.qrg.northwestern.edu/nextkb/index.html) used in the evaluation of the paper [Combining Analogy with Language Models for Knowledge Extraction](https://openreview.net/forum?id=4TpJpZ-_gyl)
 
 # Data Format (CycL)
 
